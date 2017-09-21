@@ -1,0 +1,43 @@
+body{
+    color: #D9CB9E;
+    background-color: #374140;
+    font-family: tahoma, helvetica, arial, sans-serif;
+}
+h1, h2, h3, h4 ,h5, h6{
+     font-family: "Baskerville", Georgia, serif;  
+    
+}
+a{
+    color: #0D71F5;
+}
+a:hover{
+    color: #008F45;
+}
+
+td, th{
+    width: 100px;
+    text-align: center;
+
+}
+
+td{
+     border: 2px solid #DC3522;   
+    
+}
+
+th{
+        border: 2px solid #008F45;
+    
+}
+table{
+     border-collapse: collapse;   
+    
+}
+input[type=submit], input[type=reset]{
+     border-radius: 3px;   
+}
+
+input[type=text]:focus{
+    border: 2px solid #0D71F5;
+    
+}
